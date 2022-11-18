@@ -1,4 +1,4 @@
-package org.example;
+package org.projetoPOO_ED;
 
 public class Main {
     public static void main(String[] args) {

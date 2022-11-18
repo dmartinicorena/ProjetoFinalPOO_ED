@@ -1,5 +1,5 @@
 
-package org.example; // MODIFICAR PARA SEU PROJETO
+package org.projetoPOO_ED; // MODIFICAR PARA SEU PROJETO
 
 public class Transportadora {
 
